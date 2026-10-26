@@ -25,7 +25,7 @@
 
 ---
 
-## 📖 Présentation
+## 📋 Présentation
 
 Apache Guacamole est une solution d'accès distant **clientless** open-source. Elle permet de se connecter à des machines distantes via un **simple navigateur web** sans installation de logiciel client, en supportant les protocoles **SSH**, **RDP** et **VNC**.
 
@@ -70,7 +70,7 @@ Ce projet déploie un bastion sécurisé centralisant l'accès à 3 machines cib
 
 ---
 
-## ✅ Prérequis
+## 📦 Prérequis
 
 - VMware Workstation (26H1 ou supérieur)
 - 4 VMs : Bastion Debian 13, Debian CLI, Debian GUI (XFCE), Windows 10
@@ -276,7 +276,7 @@ L'extension `guacamole-auth-totp` est activée. Lors de la première connexion, 
 
 ---
 
-## 🎓 Compétences
+## 🧠 Compétences démontrées
 
 - **Virtualisation** : VMware Workstation, réseaux virtuels NAT/Host-Only
 - **Linux** : Debian 13, systemd, ifupdown, VNC/TigerVNC, XFCE
