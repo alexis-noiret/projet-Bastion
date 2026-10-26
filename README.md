@@ -1,11 +1,11 @@
 # 🛡️ Projet Bastion – Apache Guacamole
 
-![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
-![Guacamole](https://img.shields.io/badge/Apache-Guacamole-FF6600?style=flat-square&logo=apache&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-Workstation-607078?style=flat-square&logo=vmware&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Debian](https://img.shields.io/badge/Debian-13-A81D33)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639)
+![Guacamole](https://img.shields.io/badge/Apache-Guacamole-FF6600)
+![VMware](https://img.shields.io/badge/VMware-Workstation-607078)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 > Centralisation et sécurisation des accès distants à des machines virtuelles via Apache Guacamole, accessible depuis un simple navigateur web.
 
